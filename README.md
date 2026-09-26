@@ -194,6 +194,7 @@ Human Review
 Claim Status + Audit History
 ```
 
+
 ## Documentation
 
 More detailed documentation is available/will be completed in:
@@ -202,3 +203,11 @@ More detailed documentation is available/will be completed in:
 - `ARCHITECTURE.md` — system components and architecture
 
 Detailed setup, configuration, API, and architecture documentation will be finalized after the code review.
+
+
+## Future Work
+
+- Add secure authentication and role-based access control (RBAC).
+- Expand automated testing and API coverage using Pytest.
+- Improve AI/ML models for better prediction and analysis.
+- Improve RAG retrieval and policy-grounded claim analysis.
