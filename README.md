@@ -17,7 +17,12 @@ An end-to-end insurance claim analysis system that combines machine learning, NL
 - Deterministic policy checks
 - Duplicate/similar claim detection
 - Human review and approval workflow
+  <img width="1896" height="976" alt="image" src="https://github.com/user-attachments/assets/cfa3fb0c-8568-4427-bffb-37f765be635b" />
+  <img width="1887" height="972" alt="image" src="https://github.com/user-attachments/assets/2aa55320-75c5-4882-896e-ee76e2f8b73b" />
+
 - Claim status and investigation history
+  <img width="1891" height="972" alt="image" src="https://github.com/user-attachments/assets/36402c4e-a5b5-47d5-9c12-fa226be7f2a1" />
+
 - MLflow experiment tracking and model comparison
 - React-based claim analyst interface
 
