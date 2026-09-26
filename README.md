@@ -1,6 +1,8 @@
 # Documentation is incomplete for now. I will update it after the final code review.
 
 # AI Powered Insurance Claim Analysis
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/fd0fa4da-c025-4fb4-a6fa-9d50dce574e6" />
+
 
 An end-to-end insurance claim analysis system that combines machine learning, NLP, RAG, and human review to assist with insurance claim assessment.
 
